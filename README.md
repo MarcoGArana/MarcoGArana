@@ -49,14 +49,6 @@ Arquitectura y patrones de diseño · UX/UI · Desarrollo responsivo
 
 ---
 
-## 📚 Experiencia
-
-**Instructor académico – Fundamentos de Programación (UCA, 2025)**  
-- Apoyo en enseñanza de programación básica a estudiantes de nuevo ingreso.  
-- Elaboración de guías de estudio, prácticas y talleres evaluados.  
-
----
-
 ## 🌎 Idiomas
 
 - Español (Nativo)  
